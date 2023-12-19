@@ -1,0 +1,47 @@
+Script started on 2023-04-13 21:59:30-07:00
+]0;jaholt@WWWSTU-P01:~/hw6[jaholt@WWWSTU-P01 hw6]$ emacs PhotoLab.c[6P./PhotoLabgcc -ansi -Wall PhotoLab.c -o PhotoLab
+]0;jaholt@WWWSTU-P01:~/hw6[jaholt@WWWSTU-P01 hw6]$ gcc -ansi -Wall PhotoLab.c -o PhotoLab[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pemacs PhotoLab.c[6P./PhotoLab
+wilson.ppm was read successfully!
+aging.ppm was saved successfully. 
+aging.jpg was stored for viewing. 
+Aging tested!
+
+wilson.ppm was read successfully!
+bw.ppm was saved successfully. 
+bw.jpg was stored for viewing. 
+BW tested!
+
+wilson.ppm was read successfully!
+negative.ppm was saved successfully. 
+negative.jpg was stored for viewing. 
+Negative tested!
+
+wilson.ppm was read successfully!
+vflip.ppm was saved successfully. 
+vflip.jpg was stored for viewing. 
+vflip tested!
+
+wilson.ppm was read successfully!
+hmirror.ppm was saved successfully. 
+hmirror.jpg was stored for viewing. 
+hmirror tested!
+
+wilson.ppm was read successfully!
+sharpen.ppm was saved successfully. 
+sharpen.jpg was stored for viewing. 
+sharpen tested!
+
+wilson.ppm was read successfully!
+xRB.ppm was saved successfully. 
+xRB.jpg was stored for viewing. 
+xRB tested!
+
+wilson.ppm was read successfully!
+border.ppm was saved successfully. 
+border.jpg was stored for viewing. 
+add border tested!
+
+]0;jaholt@WWWSTU-P01:~/hw6[jaholt@WWWSTU-P01 hw6]$ exit
+exit
+
+Script done on 2023-04-13 21:59:41-07:00
